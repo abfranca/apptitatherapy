@@ -16,7 +16,7 @@ Opcionais:
 
 ## Teste
 
-Para testar o projeto, siga o tutorial de instalação do [Flutter](https://docs.flutter.dev/get-started/install) (caso não tenha ele instalado), navegue até o arquivo [./lib/main.dart](https://github.com/abfranca/apptitatherapy/blob/main/lib/main.dart) e execute o debugger da sua IDE (projeto testado em dispositivo Android e na versão web).
+Para testar o projeto, faça um clone do repositório, siga o tutorial de instalação do [Flutter](https://docs.flutter.dev/get-started/install) (caso não tenha ele instalado), navegue até o arquivo [./lib/main.dart](https://github.com/abfranca/apptitatherapy/blob/main/lib/main.dart) e execute o debugger da sua IDE (projeto testado em dispositivo Android e na versão web).
 
 ## Adicionais
 
